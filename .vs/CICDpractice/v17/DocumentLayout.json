@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\domashka\\3 KURS\\\u0418\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\CICD practice\\CICDpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DE8AE2-177F-4262-99A7-3B98B076FC72}|CICDpractice.Tests\\CICDpractice.Tests.csproj|d:\\domashka\\3 kurs\\\u0438\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\cicd practice\\cicdpractice\\cicdpractice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DE8AE2-177F-4262-99A7-3B98B076FC72}|CICDpractice.Tests\\CICDpractice.Tests.csproj|solutionrelative:cicdpractice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E0ABE-288F-44D3-89E8-E177EBC85AE4}|CICDpractice\\CICDpractice.csproj|d:\\domashka\\3 kurs\\\u0438\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\cicd practice\\cicdpractice\\cicdpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E0ABE-288F-44D3-89E8-E177EBC85AE4}|CICDpractice\\CICDpractice.csproj|solutionrelative:cicdpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\domashka\\3 KURS\\\u0418\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\CICD practice\\CICDpractice\\CICDpractice.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CICDpractice.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\domashka\\3 KURS\\\u0418\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\CICD practice\\CICDpractice\\CICDpractice.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CICDpractice.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:36:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\domashka\\3 KURS\\\u0418\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\CICD practice\\CICDpractice\\CICDpractice\\Class1.cs",
+              "RelativeDocumentMoniker": "CICDpractice\\Class1.cs",
+              "ToolTip": "D:\\domashka\\3 KURS\\\u0418\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\\CICD practice\\CICDpractice\\CICDpractice\\Class1.cs",
+              "RelativeToolTip": "CICDpractice\\Class1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwvzsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:27:27.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
